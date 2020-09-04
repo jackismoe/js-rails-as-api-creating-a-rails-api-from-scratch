@@ -1,0 +1,3 @@
+[submodule "bird-watcher-api"]
+	path = bird-watcher-api
+	url = https://github.com/jackismoe/bird-watcher-api
